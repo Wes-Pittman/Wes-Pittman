@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Front-End Development
 - 💞️ I’m looking to collaborate on anything I can
 - 📫 How to reach me at wesley.a.pittman@gmail.com
+
+
+
 [![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=wes-pittman)](https://github.com/wes-pittman/github-readme-stats)
 <!---
 Wes-Pittman/Wes-Pittman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
