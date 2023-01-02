@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Wes-Pittman
-- 👀 I’m interested in Back-End/Full Stack development
-- 🌱 I’m currently learning Front-End Development
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning Business Analytics and Data Science
 - 💞️ I’m looking to collaborate on anything I can
-- 📫 How to reach me at wesley.a.pittman@gmail.com
+- 📫 Reach me at wesley.a.pittman@gmail.com
 
 
 
