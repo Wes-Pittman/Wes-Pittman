@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wes-Pittman
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Java and Front-End
+- 🌱 I’m currently learning AWS, DSA and Full Stack Development
 - 💞️ I’m looking to collaborate on anything I can
 - 📫 Reach me at wesley.a.pittman@gmail.com
 
